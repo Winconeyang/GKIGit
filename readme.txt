@@ -1,23 +1,5 @@
-{\rtf1\ansi\ansicpg936\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fmodern\fcharset0 Courier-Bold;}
-{\colortbl;\red255\green255\blue255;\red52\green52\blue52;\red249\green249\blue249;\red38\green38\blue38;
-}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720
-
-\f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
-Git 
-\f1\b \cf4 \expnd0\expndtw0\kerning0
-is
-\f0\b0 \cf2 \expnd0\expndtw0\kerning0
- a distributed version control system.\
-Git 
-\f1\b \cf4 \expnd0\expndtw0\kerning0
-is
-\f0\b0 \cf2 \expnd0\expndtw0\kerning0
- free software.\
-Git has a mutable index called stage.\
-\pard\pardeftab720
-\cf2 \cb3 \expnd0\expndtw0\kerning0
-Git tracks changes.}
+Git is a distributed version control system.
+Git is free software.
+Git has a mutable index called.
+Git tracks changes.
+Creating a new branch is quick.
